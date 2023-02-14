@@ -8,6 +8,7 @@ Idle tap games track the number of times a user has tapped on the screen, and al
 - [x] A simple version of the app with core features implemented will just track the number of times a user has tapped on a button
 - [x] A more advanced version of the app with stretch features implemented will more closely mimic a true idle tap game, where users can see customizations and purchase upgrades.
 
+<img src=https://github.com/JavierCunat/SimpleCounter/blob/master/simpleCounter.gif width=200px>
 
 #### Goals By the end of this lab you will be able to...
 
